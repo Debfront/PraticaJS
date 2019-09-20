@@ -1,2 +1,2 @@
 # PraticaJS
-Exercicio pratico de analise de números
+Pratica do curso de JS 
